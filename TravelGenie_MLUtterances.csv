@@ -1,0 +1,172 @@
+sentence,type,language,taskName
+I need a flight from New York to Los Angeles on December 1st,DialogIntent,en,Book Flight
+Book flight from Paris to London for Tuesday,DialogIntent,en,Book Flight
+Can you help me book a flight from Chicago to Miami?,DialogIntent,en,Book Flight
+Schedule a flight from Berlin to Rome,DialogIntent,en,Book Flight
+Find a flight from Sydney to Melbourne on April 10th,DialogIntent,en,Book Flight
+Can you book a flight from Dubai to Mumbai for next Monday?,DialogIntent,en,Book Flight
+I want to fly from Tokyo to Seoul next Friday,DialogIntent,en,Book Flight
+Book a ticket for a flight departing from San Francisco to Boston on March 15th,DialogIntent,en,Book Flight
+I'd like to book a flight from Houston to Dallas,DialogIntent,en,Book Flight
+Need to book a flight from Seattle to Denver for next weekend,DialogIntent,en,Book Flight
+Reserve a seat on a flight from Toronto to Vancouver,DialogIntent,en,Book Flight
+Help me find a flight from Hong Kong to Bangkok on May 5th,DialogIntent,en,Book Flight
+Please arrange a flight from Atlanta to Orlando on June 20th,DialogIntent,en,Book Flight
+Book a flight from Las Vegas to Phoenix,DialogIntent,en,Book Flight
+I'd like to fly from Mexico City to Cancun,DialogIntent,en,Book Flight
+"I need help, could you put me through to an agent?",DialogIntent,en,DefaultAgentTransfer
+Can you transfer me to a customer service representative?,DialogIntent,en,DefaultAgentTransfer
+Please connect me to an agent.,DialogIntent,en,DefaultAgentTransfer
+Could you transfer me to someone who can assist me?,DialogIntent,en,DefaultAgentTransfer
+I need to talk to a live agent.,DialogIntent,en,DefaultAgentTransfer
+Help me talk to a customer service agent.,DialogIntent,en,DefaultAgentTransfer
+Can I be transferred to a human representative?,DialogIntent,en,DefaultAgentTransfer
+Can you get me a customer support agent?,DialogIntent,en,DefaultAgentTransfer
+"I would like to speak to a human agent, please.",DialogIntent,en,DefaultAgentTransfer
+I need to be connected to an agent for assistance.,DialogIntent,en,DefaultAgentTransfer
+Can you connect me to someone who can help?,DialogIntent,en,DefaultAgentTransfer
+I want to talk to an agent about my issue.,DialogIntent,en,DefaultAgentTransfer
+Could you put me in touch with a customer service agent?,DialogIntent,en,DefaultAgentTransfer
+Please transfer me to a human.,DialogIntent,en,DefaultAgentTransfer
+"I'd like to speak with a live person, please.",DialogIntent,en,DefaultAgentTransfer
+Help me reach a representative.,DialogIntent,en,DefaultAgentTransfer
+I need to be transferred to a support agent.,DialogIntent,en,DefaultAgentTransfer
+Please connect me to a human representative.,DialogIntent,en,DefaultAgentTransfer
+Can I talk to a live customer service agent?,DialogIntent,en,DefaultAgentTransfer
+I would like to be transferred to a human agent for further assistance.,DialogIntent,en,DefaultAgentTransfer
+Please book a flight departing from New York to Los Angeles on August 15th.,DialogIntent,en,Custom Feedback Survey
+Arrange a flight from Boston to Dallas for Friday.,DialogIntent,en,Custom Feedback Survey
+Can you schedule a flight from San Francisco to Seattle on December 1st?,DialogIntent,en,Custom Feedback Survey
+I need to arrange a flight from Chicago to Miami for next Monday.,DialogIntent,en,Custom Feedback Survey
+Set up a flight from Las Vegas to San Diego on July 4th.,DialogIntent,en,Custom Feedback Survey
+Can you book a flight for me from Philadelphia to Orlando on September 12th?,DialogIntent,en,Custom Feedback Survey
+I need a flight from Washington D.C. to Detroit on Wednesday.,DialogIntent,en,Custom Feedback Survey
+I want to book a flight for tomorrow from Denver to Phoenix.,DialogIntent,en,Custom Feedback Survey
+Book a flight from Atlanta to Houston on November 20th.,DialogIntent,en,Custom Feedback Survey
+Can you arrange a flight from Nashville to New Orleans?,DialogIntent,en,Custom Feedback Survey
+I need to book a flight from Charlotte to Austin.,DialogIntent,en,Custom Feedback Survey
+Please book a flight to Boston.,DialogIntent,en,Custom Feedback Survey
+Book me a flight from Seattle to San Francisco for this coming Thursday.,DialogIntent,en,Custom Feedback Survey
+I want to book a flight departing on Monday.,DialogIntent,en,Custom Feedback Survey
+Schedule a flight for next Friday.,DialogIntent,en,Custom Feedback Survey
+Find a flight departing from New York and arriving in Tokyo on Friday.,DialogIntent,en,AnswerGeneration
+Can you help me book a flight from San Francisco to Berlin on June 15th?,DialogIntent,en,AnswerGeneration
+Book a flight for me from Sydney to Rome departing Wednesday.,DialogIntent,en,AnswerGeneration
+I need to book a flight to Madrid from Toronto for next Monday.,DialogIntent,en,AnswerGeneration
+I want to book a flight from Miami to Vienna on Saturday.,DialogIntent,en,AnswerGeneration
+Could you please arrange a flight from Boston to Amsterdam on August 10th?,DialogIntent,en,AnswerGeneration
+Schedule a flight from Chicago to Dubai on July 22nd.,DialogIntent,en,AnswerGeneration
+I need a flight to Lisbon leaving from Dallas on Thursday.,DialogIntent,en,AnswerGeneration
+Reserve a flight from Los Angeles to Athens for September 5th.,DialogIntent,en,AnswerGeneration
+Please book a flight from Phoenix to Brussels on October 25th.,DialogIntent,en,AnswerGeneration
+Get me a flight from Houston to Bangkok on November 1st.,DialogIntent,en,AnswerGeneration
+Arrange a flight from Denver to Copenhagen for April 14th.,DialogIntent,en,AnswerGeneration
+Can you book a flight from Orlando to Stockholm on March 12th?,DialogIntent,en,AnswerGeneration
+Can you find a flight from Seattle to Istanbul for December 3rd?,DialogIntent,en,AnswerGeneration
+Book a flight from Atlanta to Moscow on next Tuesday.,DialogIntent,en,AnswerGeneration
+"I'd like to book a flight to Zurich from Washington, D.C. on June 30th.",DialogIntent,en,AnswerGeneration
+Schedule a flight for me from Philadelphia to Helsinki on Sunday.,DialogIntent,en,AnswerGeneration
+Can you book a flight from Charlotte to Prague on April 22nd?,DialogIntent,en,AnswerGeneration
+Book a flight from Tampa to Edinburgh for July 19th.,DialogIntent,en,AnswerGeneration
+I need to find a flight from San Diego to Oslo for May 20th.,DialogIntent,en,AnswerGeneration
+Find me a flight to Luxembourg from Las Vegas for March 30th.,DialogIntent,en,AnswerGeneration
+Arrange a flight from Baltimore to Budapest on June 6th.,DialogIntent,en,AnswerGeneration
+Could you arrange a flight from Minneapolis to Reykjavik on January 8th?,DialogIntent,en,AnswerGeneration
+Book a flight from Detroit to Warsaw on February 11th.,DialogIntent,en,AnswerGeneration
+Schedule a flight from Portland to Dublin on May 17th.,DialogIntent,en,AnswerGeneration
+Find me a flight departing from Los Angeles to Chicago for next Wednesday.,DialogIntent,en,InteractionIntents
+I need a flight from Tokyo to Sydney next Monday.,DialogIntent,en,InteractionIntents
+I need to book a flight to Toronto from Vancouver on Thursday.,DialogIntent,en,InteractionIntents
+Can you arrange a flight from Rome to Madrid for next Friday?,DialogIntent,en,InteractionIntents
+Book a flight from Dubai to Istanbul for tomorrow.,DialogIntent,en,InteractionIntents
+I want to fly from Berlin to Amsterdam this Saturday.,DialogIntent,en,InteractionIntents
+Please arrange a flight from Boston to Miami on Sunday.,DialogIntent,en,InteractionIntents
+Can you book a flight for me from Moscow to Athens?,DialogIntent,en,InteractionIntents
+Please help me with booking a flight from Delhi to Bangkok.,DialogIntent,en,InteractionIntents
+I would like to fly from Singapore to Kuala Lumpur next Thursday.,DialogIntent,en,InteractionIntents
+I need a ticket to Tokyo from Seoul for Wednesday.,DialogIntent,en,InteractionIntents
+Can you help me book a flight to Chicago from Miami this Friday?,DialogIntent,en,TravelBuddy
+I need a flight from New York to Los Angeles on December 15th.,DialogIntent,en,TravelBuddy
+I want to travel from Berlin to Amsterdam on Saturday.,DialogIntent,en,TravelBuddy
+Please book a flight from Dubai to Tokyo on March 10th.,DialogIntent,en,TravelBuddy
+Arrange a flight departing San Francisco and arriving in Seattle for next Monday.,DialogIntent,en,TravelBuddy
+I need to book a flight for tomorrow from Rome to Madrid.,DialogIntent,en,TravelBuddy
+Book a ticket from Boston to Houston for January 22nd.,DialogIntent,en,TravelBuddy
+Book a flight from London to New York.,DialogIntent,en,TravelBuddy
+I am looking to fly from Sydney to Melbourne next Wednesday.,DialogIntent,en,TravelBuddy
+Get me a flight from Mumbai to Bangkok.,DialogIntent,en,TravelBuddy
+Help me book a flight to Paris.,DialogIntent,en,TravelBuddy
+I want to book a flight from Las Vegas for June 5th.,DialogIntent,en,TravelBuddy
+Can you arrange a flight to Dubai?,DialogIntent,en,TravelBuddy
+Book a flight for next weekend.,DialogIntent,en,TravelBuddy
+I need a flight from San Francisco to Tokyo on the 25th of December.,Sub-intent,en,SATwaitForUserInput
+I want to fly from Sydney to Melbourne on Monday.,Sub-intent,en,SATwaitForUserInput
+Can you book a flight from Berlin to Rome for tomorrow?,Sub-intent,en,SATwaitForUserInput
+Schedule a flight from Toronto to Vancouver for next month.,Sub-intent,en,SATwaitForUserInput
+Please find me a flight from Chicago to Miami for this weekend.,Sub-intent,en,SATwaitForUserInput
+I need to travel from Houston to Seattle on the 15th.,Sub-intent,en,SATwaitForUserInput
+Could you please book a flight from New York to Los Angeles for next Friday?,Sub-intent,en,SATwaitForUserInput
+Can you arrange a flight from Dallas to Denver for next Wednesday?,Sub-intent,en,SATwaitForUserInput
+Get me a flight from Dubai to New Delhi for the 1st of November.,Sub-intent,en,SATwaitForUserInput
+Can you help me book a flight from Boston to Atlanta?,Sub-intent,en,SATwaitForUserInput
+Please find flights departing from Tokyo heading to Sydney on Saturday.,DialogIntent,en,Fallback Task
+"Sure, here are some training samples for the Fallback Task intent:",DialogIntent,en,Fallback Task
+Could you arrange my flight from Mumbai to Dubai for Monday?,DialogIntent,en,Fallback Task
+I'd like to schedule a trip from Berlin to Rome for next Wednesday.,DialogIntent,en,Fallback Task
+Can you help me book a flight from New York to San Francisco on Friday?,DialogIntent,en,Fallback Task
+Can you find me a flight from Toronto to Vancouver?,DialogIntent,en,Fallback Task
+I need to book a flight to Chicago from Los Angeles for next Thursday.,DialogIntent,en,Fallback Task
+Help me book a flight from Amsterdam to Brussels for the coming weekend.,DialogIntent,en,Fallback Task
+I want to schedule a flight from Beijing to Shanghai.,DialogIntent,en,Fallback Task
+Book a flight from Bangkok to Singapore on next month.,DialogIntent,en,Fallback Task
+I need to book a flight from Miami to Houston for tomorrow.,DialogIntent,en,Fallback Task
+Please book me a flight from Seoul to Osaka on next Tuesday.,DialogIntent,en,Fallback Task
+I'd like to travel from Athens to Istanbul on Thursday.,DialogIntent,en,Fallback Task
+How can I get a flight from Madrid to Barcelona for this Sunday?,DialogIntent,en,Fallback Task
+Can you assist with booking a flight to Boston from Philadelphia?,DialogIntent,en,Fallback Task
+"These samples cover different structural formats, various city combinations, and some without specific travel dates.",DialogIntent,en,Fallback Task
+Arrange a flight from Lisbon to Zurich for Friday.,DialogIntent,en,Fallback Task
+I need to set a follow-up task to review the budget report with John by Friday.,DialogIntent,en,Follow up Task
+"Sure, here are structurally different samples for the ""Follow up Task"" intent with various entity combinations:",DialogIntent,en,Follow up Task
+Could you please schedule a follow-up task regarding the project update for next Monday?,DialogIntent,en,Follow up Task
+Can you add a follow-up task for tomorrow to check on the shipment status?,DialogIntent,en,Follow up Task
+I have to follow up with Sarah about the marketing strategy. Can you add this to my tasks?,DialogIntent,en,Follow up Task
+Schedule a follow-up task to discuss the new proposal with the team next week.,DialogIntent,en,Follow up Task
+Please create a follow-up task for the client meeting on Wednesday.,DialogIntent,en,Follow up Task
+Can you set a follow-up task for the client feedback session next Thursday?,DialogIntent,en,Follow up Task
+I need a follow-up task for the quarterly review meeting on the 15th.,DialogIntent,en,Follow up Task
+Set a reminder to follow up on the software update with Alex by end of this week.,DialogIntent,en,Follow up Task
+"Follow up with the supplier about the order delivery. Add this to my tasks, please.",DialogIntent,en,Follow up Task
+I need to follow up on the training schedule for the new hires. Set this as a task.,DialogIntent,en,Follow up Task
+Please create a task to follow up with Emily about the contract details.,DialogIntent,en,Follow up Task
+Schedule a follow-up task for the status check on the ongoing project next Friday.,DialogIntent,en,Follow up Task
+Add a follow-up task to discuss the performance metrics with Michael next Monday.,DialogIntent,en,Follow up Task
+Set a reminder to follow up with Rachel regarding the new marketing campaign.,DialogIntent,en,Follow up Task
+"These samples incorporate a variety of structures and entity combinations to cover different scenarios for the ""Follow up Task"" intent.",DialogIntent,en,Follow up Task
+I need to check my booking status for the flight to Sydney.,DialogIntent,en,Get Booking Details
+I want to see the details of my flight from Singapore to Hong Kong for next Monday.,DialogIntent,en,Get Booking Details
+Can you provide me with the details of my booking from New York to Tokyo?,DialogIntent,en,Get Booking Details
+Please show me the booking information for my flight from Madrid to Los Angeles.,DialogIntent,en,Get Booking Details
+Do you have the booking details for my trip to Dubai?,DialogIntent,en,Get Booking Details
+What are my flight details for the trip from Berlin to Rome on Saturday?,DialogIntent,en,Get Booking Details
+Can you tell me the details of my flight from Chicago to Miami on Wednesday?,DialogIntent,en,Get Booking Details
+What are the booking details for my journey to Toronto?,DialogIntent,en,Get Booking Details
+Could you provide me with the information for my flight from San Francisco to Las Vegas on Friday?,DialogIntent,en,Get Booking Details
+Give me my booking details,DialogIntent,en,Get Booking Details
+My flight booking details,DialogIntent,en,Get Booking Details
+Can you modify my booking for the trip from Tokyo to Sydney?,DialogIntent,en,ModifyBooking
+Change my booking date for my flight from Chicago to San Francisco to December 1st.,DialogIntent,en,ModifyBooking
+Adjust my travel plans for the journey from Dubai to Mumbai.,DialogIntent,en,ModifyBooking
+I need to change my flight from New York to Los Angeles on November 15th.,DialogIntent,en,ModifyBooking
+Please update my flight from Berlin to Rome on Friday.,DialogIntent,en,ModifyBooking
+I need to reschedule my flight to Toronto from Vancouver.,DialogIntent,en,ModifyBooking
+Modify my current booking for the route from Madrid to Lisbon.,DialogIntent,en,ModifyBooking
+I want to update my booking to fly from Boston to Miami on April 12th.,DialogIntent,en,ModifyBooking
+Can you help me change my travel date for the flight from Hong Kong to Bangkok to next Monday?,DialogIntent,en,ModifyBooking
+I need to change my trip details from Seoul to Shanghai.,DialogIntent,en,ModifyBooking
+Please alter my flight details from Amsterdam to Vienna.,DialogIntent,en,ModifyBooking
+Can you assist in modifying my reservation for a flight to Athens?,DialogIntent,en,ModifyBooking
+Help me change the booking for my flight from San Diego to Las Vegas.,DialogIntent,en,ModifyBooking
+I would like to modify my flight to Istanbul from Ankara.,DialogIntent,en,ModifyBooking
+Reschedule my flight from Moscow to Cairo to Wednesday.,DialogIntent,en,ModifyBooking
+Modify my booking,DialogIntent,en,ModifyBooking
